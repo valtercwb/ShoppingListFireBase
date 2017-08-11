@@ -24,7 +24,3 @@ Thumbs.db
 .gradle
 build/
 #.idea/vcs.xml
-gradle.properties
-#don't store google-services.json
-app/google-services.json
-
